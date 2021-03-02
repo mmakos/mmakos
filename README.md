@@ -2,9 +2,13 @@
 
 ### My name is Michał Makoś
 
-I study IT at the Faculty of Electronics and Information <p style="color:red">Technology</p> at Warsaw University of Technology.
+I study IT at the Faculty of Electronics and Information Technology at Warsaw University of Technology.
 
-If you want to know more about me and my work, please visit <span style="color:red">[my website](http://mmakos.pl/)</span>.
+If you want to know more about me and my work, please visit [my website](http://mmakos.pl/).
+
+<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
+<br>
+<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
 
 <!--
 **mmakos/mmakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
