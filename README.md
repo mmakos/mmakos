@@ -34,7 +34,7 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 * [Graph editor](https://github.com/mmakos/Graph-editor)
 
 <br>
-<img align="bottom" alt="Assembly" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/assembly.svg" /> Assembly
+<img align="left" alt="Assembly" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/assembly.svg" /> Assembly
 
 * [Median filter](https://github.com/mmakos/Median-filter)
 * Some illegal stuff maybe 😇
