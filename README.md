@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome to my GitHub repository
+
+### My name is Michał Makoś
+
+I study IT at the Faculty of Electronics and Information Technology at Warsaw University of Technology.
+
+If you want to know more about me and my work, please visit <span style="color: red">[my website](http://mmakos.pl/)</span>.
 
 <!--
 **mmakos/mmakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
