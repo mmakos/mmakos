@@ -2,32 +2,32 @@
 
 ## My name is Michał Makoś
 
-<img alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg" /> I study IT at the Faculty of Electronics and Information Technology at Warsaw University of Technology.
+<img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg" /> I study IT at the Faculty of Electronics and Information Technology at Warsaw University of Technology.
 
-<img alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/69eb4fb8aee6ab095671aef31b1a9a93d89c0595/icon/trumpet.svg" /> I also study trumpet at the J. Elsner Music High School in Warsaw.
+<img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/69eb4fb8aee6ab095671aef31b1a9a93d89c0595/icon/trumpet.svg" /> I also study trumpet at the J. Elsner Music High School in Warsaw.
 <br><br>
 If you want to know more about me and my work, please visit [my website: mmakos.pl](http://mmakos.pl/).
 
 ## Projects
 
-<img alt="Java" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.svg" /> Java
+<img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.svg" /> Java
 
-* <img alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/Werewolves)
-* <img alt="Minesweeper" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /> [Minesweeper](https://github.com/mmakos/Saper)
+* <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/Werewolves)
+* <img align="left" alt="Minesweeper" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /> [Minesweeper](https://github.com/mmakos/Saper)
 * [Collaborative Notepad](https://github.com/mmakos/Notepad)
 
 <br>
-<img align="bottom" alt="Android" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/android.svg" /> Android (Java)
+<img align="left" alt="Android" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/android.svg" /> Android (Java)
 
-* <img alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/WerewolvesApp)
+* <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/WerewolvesApp)
 
 <br>
-<img alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/python.svg" /> Python
+<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/python.svg" /> Python
 
 * [Human Pose Classification](https://github.com/mmakos/HPC)
 
 <br>
-<img alt="C++" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
+<img align="left" alt="C++" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
 
 * [Management game](https://github.com/mmakos/Management-game)
 * [Data structures](https://github.com/mmakos/Data-structures)
@@ -41,9 +41,9 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 
 ## Contact
 
-<img alt="mail" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
+<img align="left" alt="mail" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
 
-<img alt="messenger" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
+<img align="left" alt="messenger" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
 
 <!--
 **mmakos/mmakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
