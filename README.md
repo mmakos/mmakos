@@ -10,9 +10,15 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 
 ## Projects
 
-<img align="left" alt="Minesweeper" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.png" /> Java
+<img align="left" alt="Java" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.png" /> Java
 
-* <img align="left" alt="Minesweeper" width="24px" src="https://raw.githubusercontent.com/mmakos/Saper/master/img/icon.png" /> [Minesweeper](http://www.mmakos.pl/programming/saper/)
+* <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/Werewolves/master/src/img/icon.png" /> [Werewolves](https://github.com/mmakos/Werewolves)
+* <img align="left" alt="Minesweeper" height="24px" src="https://raw.githubusercontent.com/mmakos/Saper/master/img/icon.png" /> [Minesweeper](https://github.com/mmakos/Saper)
+* [Collaborative Notepad](https://github.com/mmakos/Notepad)
+
+<img align="left" alt="Android" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/android.png" /> Android (Java)
+
+* <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/Werewolves/master/src/img/icon.png" /> [Werewolves](https://github.com/mmakos/WerewolvesApp)
 
 ## Contact
 
