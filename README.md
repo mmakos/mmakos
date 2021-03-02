@@ -29,6 +29,7 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
 
 * [Management game](https://github.com/mmakos/Management-game)
+
 * [Data structures](https://github.com/mmakos/Data-structures)
 * [Graph editor](https://github.com/mmakos/Graph-editor)
 
