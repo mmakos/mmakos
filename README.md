@@ -23,8 +23,9 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 
 \
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/python.svg" /> Python
+<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/tensorflow.svg" /> with Tensorflow
 
-* [Human Pose Classification](https://github.com/mmakos/HPC) (<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/tensorflow.svg" /> Tensorflow)
+* [Human Pose Classification](https://github.com/mmakos/HPC)
 
 \
 <img align="left" alt="C++" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
