@@ -8,6 +8,10 @@
 <br><br>
 If you want to know more about me and my work, please visit [my website: mmakos.pl](http://mmakos.pl/).
 
+## Projects
+
+<img align="left" alt="Minesweeper" width="24px" src="https://raw.githubusercontent.com/mmakos/Saper/master/img/icon.png" /> [Minesweeper](http://www.mmakos.pl/programming/saper/)
+
 ## Contact
 
 <img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
