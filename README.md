@@ -27,23 +27,23 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 * [Human Pose Classification](https://github.com/mmakos/HPC)
 
 <br>
-<img alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
+<img alt="C++" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
 
 * [Management game](https://github.com/mmakos/Management-game)
 * [Data structures](https://github.com/mmakos/Data-structures)
 * [Graph editor](https://github.com/mmakos/Graph-editor)
 
 <br>
-<img alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/assembly.svg" /> Assembly
+<img align="bottom" alt="Assembly" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/assembly.svg" /> Assembly
 
 * [Median filter](https://github.com/mmakos/Median-filter)
 * Some illegal stuff maybe 😇
 
 ## Contact
 
-<img alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
+<img alt="mail" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
 
-<img alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
+<img alt="messenger" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
 
 <!--
 **mmakos/mmakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
