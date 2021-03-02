@@ -12,30 +12,24 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 
 <img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.svg" /> Java
 
-* <img align="left" alt="Werewolves" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/Werewolves)
-
-* <img align="left" alt="Minesweeper" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /> [Minesweeper](https://github.com/mmakos/Saper)
-
+* <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/Werewolves)
+* <img align="left" alt="Minesweeper" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /> [Minesweeper](https://github.com/mmakos/Saper)
 * [Collaborative Notepad](https://github.com/mmakos/Notepad)
-
-
+<br><br>
 <img align="left" alt="Android" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/android.svg" /> Android (Java)
 
 * <img align="left" alt="Werewolves" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/WerewolvesApp)
-
-
+<br><br>
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/python.svg" /> Python
 
 * [Human Pose Classification](https://github.com/mmakos/HPC)
-
-
+<br><br>
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
 
 * [Management game](https://github.com/mmakos/Management-game)
 * [Data structures](https://github.com/mmakos/Data-structures)
 * [Graph editor](https://github.com/mmakos/Graph-editor)
-
-
+<br><br>
 Assembly
 
 * [Median filter](https://github.com/mmakos/Median-filter)
