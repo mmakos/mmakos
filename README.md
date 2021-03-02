@@ -10,13 +10,15 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 
 ## Projects
 
-<img align="left" alt="Minesweeper" width="24px" src="https://raw.githubusercontent.com/mmakos/Saper/master/img/icon.png" /> [Minesweeper](http://www.mmakos.pl/programming/saper/)
+<img align="left" alt="Minesweeper" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.png" /> Java
+
+* <img align="left" alt="Minesweeper" width="24px" src="https://raw.githubusercontent.com/mmakos/Saper/master/img/icon.png" /> [Minesweeper](http://www.mmakos.pl/programming/saper/)
 
 ## Contact
 
-<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
+<img align="left" alt="website" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
 
-<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
+<img align="left" alt="website" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
 
 <!--
 **mmakos/mmakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
