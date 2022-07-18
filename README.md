@@ -26,6 +26,7 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 
 * <img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/tensorflow.svg" /> with Tensorflow
   * [Human Pose Classification](https://github.com/mmakos/HPC)
+* <img align="left" alt="Songbook generator" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/smm.svg" /> [Songbook generator](https://github.com/mmakos/songbook2docx)
 
 \
 <img align="left" alt="C++" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
@@ -45,18 +46,3 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 <img align="left" alt="mail" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
 
 <img align="left" alt="messenger" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
-
-<!--
-**mmakos/mmakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
