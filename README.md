@@ -1,21 +1,30 @@
 # Welcome to my GitHub repository
 
 ## My name is Michał Makoś
-
-![](https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg|width=40px)
-
-<img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg" /> I graduated IT at the [Faculty of Electronics and Information Technology](https://www.elka.pw.edu.pl/) at Warsaw University of Technology.
-
-<img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/69eb4fb8aee6ab095671aef31b1a9a93d89c0595/icon/trumpet.svg" /> I also graduated with honors from the [J. Elsner Secondary Music School in Warsaw (Miodowa)](https://miodowa.edu.pl/) with a specialization in trumpet.
-<br><br>
-If you want to know more about me and my work, please visit [my website: mmakos.pl](http://mmakos.pl/).
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw_dark.svg" />
+  <img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg" />
+</picture>
+I graduated IT at the <a href="https://www.elka.pw.edu.pl/">Faculty of Electronics and Information Technology</a> at Warsaw University of Technology.
+</p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/trumpet_dark.svg" />
+  <img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/trumpet.svg" />
+</picture>
+I also graduated with honors from the <a href="https://miodowa.edu.pl/">J. Elsner Secondary Music School in Warsaw (Miodowa)</a> with a specialization in trumpet.
+</p>
+<p>
+If you want to know more about me and my work, please visit <a href="http://mmakos.pl/">my website: mmakos.pl</a>.
+</p>
 
 ## Projects
 
 <img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.svg" /> Java
 
 * <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/Werewolves)
-* <img align="left" alt="Minesweeper" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /> [Minesweeper](https://github.com/mmakos/Saper)
+* <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper_dark.svg" /><img align="left" alt="website" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /></picture> [Minesweeper](https://github.com/mmakos/Saper)
 * [Collaborative Notepad](https://github.com/mmakos/Notepad)
 
 \
@@ -44,7 +53,17 @@ If you want to know more about me and my work, please visit [my website: mmakos.
 * Some illegal stuff maybe 😇
 
 ## Contact
-
-<img align="left" alt="mail" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" /> misiek.makos@gmail.com
-
-<img align="left" alt="messenger" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" /> [messenger](https://www.messenger.com/t/michalek.makos)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail_dark.svg" />
+  <img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/mail.svg" />
+</picture>
+<a href="mailto:mmakos.pl@gmail.com">mmakos.pl@gmail.com</a>
+</p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger_dark.svg" />
+  <img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/messenger.svg" />
+</picture>
+<a href="https://www.messenger.com/t/michalek.makos">messenger</a>
+</p>
