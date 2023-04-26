@@ -2,6 +2,8 @@
 
 ## My name is Michał Makoś
 
+![](https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg|width=40px)
+
 <img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw.svg" /> I graduated IT at the [Faculty of Electronics and Information Technology](https://www.elka.pw.edu.pl/) at Warsaw University of Technology.
 
 <img align="left" alt="website" width="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/69eb4fb8aee6ab095671aef31b1a9a93d89c0595/icon/trumpet.svg" /> I also graduated with honors from the [J. Elsner Secondary Music School in Warsaw (Miodowa)](https://miodowa.edu.pl/) with a specialization in trumpet.
