@@ -23,6 +23,7 @@ If you want to know more about me and my work, please visit <a href="http://mmak
 
 <img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.svg" /> Java
 
+* <img align="left" alt="Advent of Code" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/aoc.svg" /> [Advent of Code solutions](https://github.com/mmakos/Advent-of-Code)
 * <img align="left" alt="Werewolves" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/werewolves.svg" /> [Werewolves](https://github.com/mmakos/Werewolves)
 * <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper_dark.svg" /><img align="left" alt="website" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/saper.svg" /></picture> [Minesweeper](https://github.com/mmakos/Saper)
 * [Collaborative Notepad](https://github.com/mmakos/Notepad)
