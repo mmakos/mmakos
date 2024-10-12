@@ -20,7 +20,10 @@ If you want to know more about me and my work, please visit <a href="http://mmak
 </p>
 
 ## Projects
+<img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/react.svg" /><img align="left" alt="TypeScript" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/typescript.svg" /> React + Typescript
+* <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/songbook-logo-dark.svg" /><img align="left" alt="website" width="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/songbook-logo.svg" /></picture> [Songbook (frontend)](https://github/mmakos/songbook-react) currently hosted at [songbook.mmakos.pl](https://songbook.mmakos.pl)</div>
 
+\
 <img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/java.svg" /> Java
 
 * <img align="left" alt="Advent of Code" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/aoc.png" /> [Advent of Code solutions](https://github.com/mmakos/Advent-of-Code)
@@ -38,6 +41,8 @@ If you want to know more about me and my work, please visit <a href="http://mmak
 
 * <img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/tensorflow.svg" /> with Tensorflow
   * [Human Pose Classification](https://github.com/mmakos/HPC)
+* <img align="left" alt="Django" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/django.svg" /> with Django
+  * [Songbook (backend)](https://songbook.mmakos.pl)
 * <img align="left" alt="Songbook generator" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/smm64.ico" /> [Songbook generator](https://github.com/mmakos/songbook2docx)
 
 \
