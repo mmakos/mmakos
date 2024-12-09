@@ -48,6 +48,8 @@ If you want to know more about me and my work, please visit <a href="http://mmak
 \
 <img align="left" alt="C++" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/cpp.svg" /> C++
 
+* <img align="left" alt="Advent of Code" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/aoc.png" /> [Advent of Code solutions](https://github.com/mmakos/Advent-of-Code)
+* <img align="left" alt="Everybody Codes" height="24px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/ec.png" /> [Everybody Codes solutions](https://github.com/mmakos/Everybody-Codes)
 * [Management game](https://github.com/mmakos/Management-game)
 * [Data structures](https://github.com/mmakos/Data-structures)
 * [Graph editor](https://github.com/mmakos/Graph-editor)
