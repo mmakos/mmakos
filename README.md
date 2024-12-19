@@ -1,6 +1,5 @@
-# Welcome to my GitHub repository
+# Hi 👋, I'm Michał Makoś
 
-## My name is Michał Makoś
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/pw_dark.svg" />
@@ -18,6 +17,7 @@ I also graduated with honors from the <a href="https://miodowa.edu.pl/">J. Elsne
 <p>
 If you want to know more about me and my work, please visit <a href="http://mmakos.pl/">my website: mmakos.pl</a>.
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmakos&&hide=html,purebasic&langs_count=10&layout=pie&theme=darcula" alt="languages graph"  />
 
 ## Projects
 <img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/react.svg" /><img align="left" alt="TypeScript" height="30px" src="https://raw.githubusercontent.com/mmakos/mmakos/main/icon/typescript.svg" /> React + Typescript
